@@ -1,0 +1,176 @@
+0x80:0x46FD  # discovered: indirect jump target the dispatcher could not reach
+0x80:0x4885  # discovered: indirect jump target the dispatcher could not reach
+0x80:0x4B27  # discovered: indirect jump target the dispatcher could not reach
+0x80:0x49DA  # discovered: indirect jump target the dispatcher could not reach
+0x80:0x4A10  # discovered: indirect jump target the dispatcher could not reach
+0x80:0x4824  # discovered: indirect jump target the dispatcher could not reach
+0x80:0x4A8F  # discovered: indirect jump target the dispatcher could not reach
+0x80:0x4AAC  # discovered: indirect jump target the dispatcher could not reach
+0x76:0xB233  # kernel calls base+$0E at $B233 (base $68 -> MPR5 = $76)
+0xF8:0x3174  # the game calls the loader's overlay entry
+0x75:0x8E14  # discovered by the fallback
+0x6A:0x6FD8  # discovered by the fallback
+0x6A:0x702B  # discovered by the fallback
+0x69:0x4177  # discovered by the fallback
+0x6C:0x8003  # discovered by the fallback
+0x80:0x4064  # discovered by the fallback
+0x69:0x4000  # discovered by the fallback
+0x6A:0x6E43  # discovered by the fallback
+0x76:0xB521  # discovered by the fallback
+0x69:0x5124  # discovered by the fallback
+0x6B:0x8000  # discovered by the fallback
+0x6B:0x8048  # discovered by the fallback
+0x69:0x401E  # discovered by the fallback
+0x6A:0x6C24  # discovered by the fallback
+0x72:0x8000  # discovered by the fallback
+0x69:0x402A  # discovered by the fallback
+0x69:0x44C8  # discovered by the fallback
+0x6C:0x83AA  # discovered by the fallback
+0x69:0x402D  # discovered by the fallback
+0x6B:0x8084  # discovered by the fallback
+0x6B:0x809E  # discovered by the fallback
+0x6B:0x80AF  # discovered by the fallback
+0x6B:0x8182  # discovered by the fallback
+0x6B:0x80C6  # discovered by the fallback
+0x69:0x401B  # discovered by the fallback
+0x75:0x84EE  # discovered by the fallback
+0x75:0x8E27  # discovered by the fallback
+0x75:0x8592  # discovered by the fallback
+0x76:0xB645  # discovered by the fallback
+0x76:0xB750  # discovered by the fallback
+0x75:0x8C5B  # discovered by the fallback
+0x75:0x8AFF  # discovered by the fallback
+0x76:0xB721  # discovered by the fallback
+0xF8:0x22E7  # discovered by the fallback
+0x75:0x8C8C  # discovered by the fallback
+0x75:0x8D5B  # discovered by the fallback
+0x75:0x8E0C  # discovered by the fallback
+0x76:0xB765  # discovered by the fallback
+0x75:0x8B09  # discovered by the fallback
+0x75:0x8CE5  # discovered by the fallback
+0x6B:0x80DB  # discovered by the fallback
+0x6B:0x8106  # discovered by the fallback
+0x6B:0x8111  # discovered by the fallback
+0x6B:0x8170  # discovered by the fallback
+0x69:0x4030  # discovered by the fallback
+0x6C:0x8423  # discovered by the fallback
+0x6B:0x817A  # discovered by the fallback
+0x69:0x515E  # discovered after the DMA-status fix
+0x6B:0x8006  # discovered after the DMA-status fix
+0x6B:0x871A  # discovered after the DMA-status fix
+0x6B:0x8742  # discovered after the DMA-status fix
+0x6B:0x8859  # discovered after the DMA-status fix
+0x69:0x4009  # discovered after the DMA-status fix
+0x6B:0x886D  # discovered after the DMA-status fix
+0x6B:0x888B  # discovered after the DMA-status fix
+0x69:0x40E4  # discovered after the DMA-status fix
+0x6A:0x6F43  # discovered after the DMA-status fix
+0x6B:0x891D  # discovered after the DMA-status fix
+0x6F:0xA000  # discovered after the DMA-status fix
+0x6F:0xA01C  # discovered after the DMA-status fix
+0x6F:0xA049  # discovered after the DMA-status fix
+0x6F:0xA0DF  # discovered after the DMA-status fix
+0x6F:0xA0FA  # discovered after the DMA-status fix
+0x6F:0xA134  # discovered after the DMA-status fix
+0x6F:0xA17C  # discovered after the DMA-status fix
+0x6F:0xA14C  # discovered after the DMA-status fix
+0x69:0x4039  # discovered after the DMA-status fix
+0x6C:0x84CC  # discovered after the DMA-status fix
+0x6F:0xA1E3  # discovered after the DMA-status fix
+0x6F:0xA1F5  # discovered after the DMA-status fix
+0x69:0x4033  # discovered after the DMA-status fix
+0x6F:0xA215  # discovered after the DMA-status fix
+0x6B:0x887B  # discovered after the DMA-status fix
+0x69:0x4036  # discovered after the DMA-status fix
+0x6B:0x8893  # discovered after the DMA-status fix
+0x6B:0x89EC  # discovered after the DMA-status fix
+0x6B:0x8EDF  # discovered after the DMA-status fix
+0x69:0x40A8  # discovered after the DMA-status fix
+0x6A:0x618A  # discovered after the DMA-status fix
+0x6B:0x8A0E  # discovered after the DMA-status fix
+0x69:0x452E  # discovered after the DMA-status fix
+0x6B:0x8874  # discovered after the DMA-status fix
+0x6B:0x8A6E  # discovered after the DMA-status fix
+0x6B:0x88BC  # discovered after the DMA-status fix
+0x6B:0x8944  # discovered after the DMA-status fix
+0x6B:0x8A86  # discovered after the DMA-status fix
+0x6B:0x8AF0  # discovered after the DMA-status fix
+0x6B:0x8B19  # discovered after the DMA-status fix
+0x6B:0x8B68  # discovered after the DMA-status fix
+0x69:0x4051  # discovered after the DMA-status fix
+0x6B:0x8B85  # discovered after the DMA-status fix
+0x6B:0x8C6A  # discovered after the DMA-status fix
+0x69:0x4045  # discovered after the DMA-status fix
+0x6B:0x8C95  # discovered after the DMA-status fix
+0x69:0x4018  # discovered after the DMA-status fix
+0x6C:0x85C0  # discovered after the DMA-status fix
+0x6B:0x8D1C  # discovered after the DMA-status fix
+0x6B:0x8D81  # discovered after the DMA-status fix
+0x6B:0x8A1F  # discovered after the DMA-status fix
+0x6B:0x8A52  # discovered after the DMA-status fix
+0x6B:0x8DBB  # discovered after the DMA-status fix
+0x69:0x44AA  # discovered after the DMA-status fix
+0x69:0x4B8F  # discovered after the DMA-status fix
+0x6B:0x8E34  # discovered after the DMA-status fix
+0x6B:0x8E86  # discovered after the DMA-status fix
+0x6B:0x8EBF  # discovered after the DMA-status fix
+0x6B:0x8E74  # discovered after the DMA-status fix
+0x6B:0x8866  # discovered after the DMA-status fix
+0x6B:0x88A2  # discovered after the DMA-status fix
+0x6B:0x89B0  # discovered after the DMA-status fix
+0x6B:0x8852  # discovered after the DMA-status fix
+0x6B:0x8847  # discovered after the DMA-status fix
+0x6B:0x8769  # discovered after the DMA-status fix
+0x6B:0x87CE  # discovered after the DMA-status fix
+0x6B:0x8811  # discovered after the DMA-status fix
+0x6B:0x87DD  # discovered after the DMA-status fix
+0x6B:0x87D3  # discovered after the DMA-status fix
+0x69:0x51B6  # discovered after the DMA-status fix
+0x69:0x5432  # discovered after the DMA-status fix
+0x6C:0x8006  # jump-table entry reached only via `jmp ($2000)`; console executes it at f1748 (pc $8006, bank $6C)
+0x6C:0x81C4  # discovered: reached only by an indirect jump; console executes it
+0x6C:0x8280  # discovered: reached only by an indirect jump; console executes it
+0x6C:0x81E8  # discovered by injection Run B (f3000 -> f3600): indirect-jump target
+0x6C:0x81EF  # discovered by injection Run B
+# The kernel's per-frame job table: $44E1 does `asl a / tax / jmp [$44E9,x]` on
+# the state byte $3F31, so every entry is an entry point the static descent cannot
+# follow. The table is 32 words of read-only data at bank $69 $44E9-$4508; the
+# values below were read from it, not inferred (out/block/b69.bin offset $4E9).
+# The booted machine reaches entry 1 ($4529) on its first rendered frame, which is
+# how this list was found; the console runs the same dispatch from its vblank hook.
+0x69:0x452E
+0x69:0x4529
+0x69:0x4536
+0x69:0x455C
+0x69:0x45B1
+0x69:0x45CC
+0x69:0x4643
+0x69:0x46B6
+0x69:0x476A
+0x69:0x483D
+0x69:0x487F
+0x69:0x48C1
+0x69:0x48CE
+0x69:0x4939
+0x69:0x49D1
+0x69:0x4A16
+0x69:0x4AB1
+0x69:0x4B21
+0x69:0x4B8F
+0x69:0x4C15
+0x69:0x4C79
+0x69:0x4D32
+0x69:0x4DA4
+0x69:0x4DE1
+0x69:0x4E26
+0x69:0x4DFE
+0x69:0x4EB0
+0x69:0x4F26
+0x69:0x4FA0
+0x69:0x4E09
+0x69:0x502D
+0x69:0x509B
+0x69:0x444A  # discovered: indirect jump target the dispatcher could not reach
+0x69:0x4066  # discovered: indirect jump target the dispatcher could not reach
+0x69:0x403C  # discovered: indirect jump target the dispatcher could not reach
+0x69:0x400F  # discovered: indirect jump target the dispatcher could not reach

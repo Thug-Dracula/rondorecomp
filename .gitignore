@@ -1,0 +1,33 @@
+# Build output (regenerable from the user's disc)
+src/out/
+*/out/
+build/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Python
+__pycache__/
+*.pyc
+
+# User-supplied inputs: the System Card image and the game's data track.
+# This repository ships no game data of any kind, and nothing here is committed.
+inputs/
+refdata/
+
+# Game data, captures and media, in every form they show up in
+*.bin
+*.img
+*.avi
+*.webm
+*.gif
+*.mp4
+*.ppm
+*.raw
+*.sav
+*.state
+*.srm
+*.pce
+*.cue
